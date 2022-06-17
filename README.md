@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by](https://github.com/quoclam-doit/math-util/actions/workflows/ant.yml/badge.svg)](https://github.com/quoclam-doit/math-util/actions/workflows/ant.yml)
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by](https://github.com/BlueEyesssss/math-util/actions/workflows/ci-junit.yml/badge.svg)](https://github.com/BlueEyesssss/math-util/actions/workflows/ci-junit.yml)
 
 # Welcome to Math-Util Repository
 ### You will find in this repo the following stuff:
