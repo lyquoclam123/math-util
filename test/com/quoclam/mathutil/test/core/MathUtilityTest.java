@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author LENOVO
+ * @author Quoc Lam
  */
 public class MathUtilityTest {
     

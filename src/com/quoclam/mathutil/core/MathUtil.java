@@ -7,7 +7,7 @@ package com.quoclam.mathutil.core;
 
 /**
  *
- * @author LENOVO
+ * @author Quoc Lam
  */
 public class MathUtil {
             //trong class này cung cấp cho ai đó nhiểu hàm xử lý toán học

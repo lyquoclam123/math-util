@@ -13,7 +13,7 @@ import org.junit.runners.Parameterized;
 
 /**
  *
- * @author DELL
+ * @author Quoc Lam
  */
 
 //cậu lệnh này chỉ chơi vs JUnit báo hiệu rằng sẽ cần loop qua tập data để lấy các tập data input expected nhồi vào hàm test

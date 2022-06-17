@@ -9,7 +9,7 @@ import com.quoclam.mathutil.core.MathUtil;
 
 /**
  *
- * @author LENOVO
+ * @author Quoc Lam
  */
 public class Main {
     public static void main(String[] args) {
